@@ -1,1 +1,1 @@
-# Estudo-JavaSript
+# Estudo-JavaScript
